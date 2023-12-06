@@ -43,7 +43,9 @@
 
 <br>
 
-* **[go-outside-labs ml-hft-agents](https://github.com/go-outside-labs/hft-deep-learning-agents)**
-* **[go-outside-labs orchestration-toolkit](https://github.com/go-outside-labs/orchestration-toolkit)**
+* **[ml-hft-agents, by go-outside-labs](https://github.com/go-outside-labs/hft-deep-learning-agents)**
+* **[orchestration-toolkit, by go-outside-labs ](https://github.com/go-outside-labs/orchestration-toolkit)**
+* **[cypherpunk toolkit, by go-outside-labs](https://github.com/go-outside-labs/neo-cypherpunk-toolkit)**
 * **[google biquery article on blockchain public datasets](https://cloud.google.com/blog/products/data-analytics/introducing-six-new-cryptocurrencies-in-bigquery-public-datasets-and-how-to-analyze-them)**
 * **[paradigm's data portal](https://data.paradigm.xyz/)**
+  
