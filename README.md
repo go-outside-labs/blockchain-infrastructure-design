@@ -30,7 +30,7 @@
 <br>
 
 * **[a protocol for management and bartering of game (NFT) assets](game-protocol-design)**:
-    - Discussion, design, and implementation route of a protocol for management and bartering of game (NFT) assets.
+    - discussion, design, and implementation route of a protocol for management and bartering of game (NFT) assets.
 
  
 <br>
