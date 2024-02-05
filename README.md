@@ -29,6 +29,15 @@
 
 <br>
 
+* **[implementation of a draft of an EIP for rental NFTs with rights management](eip-9999)**:
+    - this standard is an extension of ERC-721 and ERC-4907.
+    - it proposes an API for rights management through a rental license.
+    - this framework is fully compatible with the licensing framework proposed on ERC-5218, although it can be implemented independently.
+
+
+
+<br>
+
 * **[a protocol for management and bartering of game (NFT) assets](game-protocol-design)**:
     - discussion, design, and implementation route of a protocol for management and bartering of game (NFT) assets.
 
