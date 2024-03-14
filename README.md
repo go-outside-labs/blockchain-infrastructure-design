@@ -25,7 +25,7 @@
 
 * **[token-scanner-api](token-scanner-api)**:
     -  a mvp for a **scalable event scanner cli and api for ethereum**, through indexing and parsing blocks events. this is the first step for training **machine learning models on the chains** (e.g., high-frequency trading with deep learning).
-    - check my mirror post **[on building a scalable event scanner for ethereum](https://mirror.xyz/steinkirch.eth/vSF18xcLyfXLIWwxjreRa3I_XskwgnjSc6pScegNJWI)**.
+    - check my mirror post **[on building a scalable event scanner for ethereum](https://mirror.xyz/irch.eth/vSF18xcLyfXLIWwxjreRa3I_XskwgnjSc6pScegNJWI)**.
 
 <br>
 
